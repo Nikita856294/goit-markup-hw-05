@@ -135,7 +135,7 @@ body {
   color: var(--color-link-title);
 }
 .nav-link-title.current {
-  padding-bottom:28px
+  padding-bottom: 28px;
   color: var(--color-link-title);
 }
 .nav-link-title.current::after {
