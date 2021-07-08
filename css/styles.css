@@ -135,7 +135,7 @@ body {
   color: var(--color-link-title);
 }
 .nav-link-title.current {
-  padding: 28px;
+  padding-bottom:28px
   color: var(--color-link-title);
 }
 .nav-link-title.current::after {
@@ -595,7 +595,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.2);
-  transition: opacity 500ms linear, visibility 500ms linear;
+  transition: opacity 250ms linear, visibility 250ms linear;
 }
 .modal-btn {
   position: absolute;
